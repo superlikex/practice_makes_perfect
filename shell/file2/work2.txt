@@ -1,0 +1,4 @@
+总用量 12
+-rw-rw-r-- 1 likex likex 143  9月 22 09:10 work1.sh
+-rw-rw-r-- 1 likex likex 173  9月 22 09:18 work2.txt
+-rw-rw-r-- 1 likex likex 190  9月 22 09:21 work2.sh

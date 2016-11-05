@@ -1,0 +1,3 @@
+./testfile2
+./testfile
+2 total.txt
